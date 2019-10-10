@@ -11,6 +11,7 @@ public class ScwRegisterApplication {
 		SpringApplication.run(ScwRegisterApplication.class, args);
 		System.out.println();
 		System.out.println(2);
+		System.out.println(3);
 
 	}
 
