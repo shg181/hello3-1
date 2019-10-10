@@ -9,6 +9,7 @@ public class ScwRegisterApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ScwRegisterApplication.class, args);
+		System.out.println();
 	}
 
 }
